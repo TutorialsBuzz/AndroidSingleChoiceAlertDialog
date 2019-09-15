@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SingleChoiceAlertDialog</string>
+
+    <string-array name="singleChoiceList">
+        <item>Google</item>
+        <item>yahoo</item>
+        <item>bing</item>
+        <item>yandex</item>
+        <item>baidu</item>
+        <item>duckduckgo</item>
+    </string-array>
+</resources>
